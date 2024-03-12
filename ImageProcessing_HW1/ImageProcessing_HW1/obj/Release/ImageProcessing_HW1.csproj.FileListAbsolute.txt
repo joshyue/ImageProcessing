@@ -1,0 +1,11 @@
+C:\Users\YOU\VS_Projects\ImageProcessing_HW1\ImageProcessing_HW1\bin\Release\ImageProcessing_HW1.exe.config
+C:\Users\YOU\VS_Projects\ImageProcessing_HW1\ImageProcessing_HW1\bin\Release\ImageProcessing_HW1.exe
+C:\Users\YOU\VS_Projects\ImageProcessing_HW1\ImageProcessing_HW1\bin\Release\ImageProcessing_HW1.pdb
+C:\Users\YOU\VS_Projects\ImageProcessing_HW1\ImageProcessing_HW1\obj\Release\ImageProcessing_HW1.csproj.AssemblyReference.cache
+C:\Users\YOU\VS_Projects\ImageProcessing_HW1\ImageProcessing_HW1\obj\Release\ImageProcessing_HW1.csproj.SuggestedBindingRedirects.cache
+C:\Users\YOU\VS_Projects\ImageProcessing_HW1\ImageProcessing_HW1\obj\Release\ImageProcessing_HW1.Form1.resources
+C:\Users\YOU\VS_Projects\ImageProcessing_HW1\ImageProcessing_HW1\obj\Release\ImageProcessing_HW1.Properties.Resources.resources
+C:\Users\YOU\VS_Projects\ImageProcessing_HW1\ImageProcessing_HW1\obj\Release\ImageProcessing_HW1.csproj.GenerateResource.cache
+C:\Users\YOU\VS_Projects\ImageProcessing_HW1\ImageProcessing_HW1\obj\Release\ImageProcessing_HW1.csproj.CoreCompileInputs.cache
+C:\Users\YOU\VS_Projects\ImageProcessing_HW1\ImageProcessing_HW1\obj\Release\ImageProcessing_HW1.exe
+C:\Users\YOU\VS_Projects\ImageProcessing_HW1\ImageProcessing_HW1\obj\Release\ImageProcessing_HW1.pdb
